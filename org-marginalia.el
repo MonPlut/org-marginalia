@@ -47,7 +47,7 @@
 separate Org file"
   :group 'org
   :prefix "org-marginalia-"
-  :link '(url-link :tag "Github" "https://github.com/nobiot/org-marginalia"))
+  :link '(url-link :tag "Github" "https://github.com/MonPlut/org-marginalia"))
 
 (defface org-marginalia-highlighter
   '((((class color) (min-colors 88) (background light))
